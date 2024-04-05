@@ -41633,7 +41633,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   skipHydrate: () => (/* binding */ skipHydrate),
 /* harmony export */   storeToRefs: () => (/* binding */ storeToRefs)
 /* harmony export */ });
-/* harmony import */ var vue_demi__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue-demi */ "./node_modules/pinia/node_modules/vue-demi/lib/index.mjs");
+/* harmony import */ var vue_demi__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue-demi */ "./node_modules/vue-demi/lib/index.mjs");
 /* harmony import */ var _vue_devtools_api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @vue/devtools-api */ "./node_modules/@vue/devtools-api/lib/esm/index.js");
 /*!
  * pinia v2.1.7
@@ -43642,10 +43642,10 @@ const PiniaVuePlugin = function (_Vue) {
 
 /***/ }),
 
-/***/ "./node_modules/pinia/node_modules/vue-demi/lib/index.mjs":
-/*!****************************************************************!*\
-  !*** ./node_modules/pinia/node_modules/vue-demi/lib/index.mjs ***!
-  \****************************************************************/
+/***/ "./node_modules/vue-demi/lib/index.mjs":
+/*!*********************************************!*\
+  !*** ./node_modules/vue-demi/lib/index.mjs ***!
+  \*********************************************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
