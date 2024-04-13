@@ -1,3 +1,21 @@
+
+# Setup
+```
+npm i
+composer install
+```
+create an .env file
+```
+php artisan key:generate
+```
+```
+php artisan serve
+yarn watch
+```
+```
+http://127.0.0.1:8000/
+```
+
 ## Creation and Connection of chosen database to sekou template
 
 **Configure .env file.**
