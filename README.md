@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Setup
 ```
@@ -66,4 +67,6 @@ http://127.0.0.1:8000/
 `after changes`
 - php artisan optimize
 - yarn dev
+=======
+>>>>>>> 3233d37e56a6076ad97300751ffa7214f9fde879
 
